@@ -13,3 +13,5 @@
 0:0:0:0:0:0:0:1 - - [18/Sep/2022:21:12:02 +0800] "GET /web-brand/selectAll HTTP/1.1" 200 1209 http-bio-8050-exec-10 40
 0:0:0:0:0:0:0:1 - - [18/Sep/2022:21:12:45 +0800] "GET /web-brand/selectAll HTTP/1.1" 200 1230 http-bio-8050-exec-10 52
 0:0:0:0:0:0:0:1 - - [18/Sep/2022:21:13:04 +0800] "GET /web-brand/selectAll HTTP/1.1" 200 1230 http-bio-8050-exec-10 3
+0:0:0:0:0:0:0:1 - - [18/Sep/2022:21:14:22 +0800] "GET /web-brand/selectAll HTTP/1.1" 200 1113 http-bio-8050-exec-1 700
+0:0:0:0:0:0:0:1 - - [18/Sep/2022:21:14:33 +0800] "GET /web-brand/selectAll HTTP/1.1" 200 1230 http-bio-8050-exec-3 180
